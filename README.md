@@ -4,6 +4,7 @@ berlin-iconfont
 An iconfont for Berlin.
 
 ![berlin-icons](http://i.imgur.com/6R0gyqt.png)
+![berlin-icons-2](http://i.imgur.com/BSUce91.png)
 
 #### Usage
 
@@ -34,4 +35,6 @@ These are the class names you can use:
 .icon-treptow-koepenick
 ```
 
+#### Credits
 
+Made with [Font Custom](http://fontcustom.com/).
