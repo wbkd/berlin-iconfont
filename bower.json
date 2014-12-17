@@ -1,0 +1,21 @@
+{
+  "name": "berlin-iconfont",
+  "description": "Iconfont of the Berlin districts.",
+  "version": "1.0.0",
+  "keywords": [],
+  "homepage": "http://apps.webkid.io/berlin-iconfont",
+  "dependencies": {},
+  "devDependencies": {},
+  "license": ["MIT"],
+  "main": [
+    "./css/berlin-iconfont.css",
+    "./fonts/*"
+  ],
+  "ignore": [
+    "*/.*",
+    "*.json",
+    "*.md",
+    "svg",
+    "geojson"
+  ]
+}
