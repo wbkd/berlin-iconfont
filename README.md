@@ -3,6 +3,8 @@ berlin-iconfont
 
 An iconfont for Berlin.
 
+![berlin-icons](http://i.imgur.com/6R0gyqt.png)
+
 #### Usage
 
 add this line to your HTML:
