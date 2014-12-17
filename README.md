@@ -38,3 +38,4 @@ These are the class names you can use:
 #### Credits
 
 Made with [Font Custom](http://fontcustom.com/).
+Inspired by [StateFace](http://propublica.github.io/stateface/).
