@@ -6,12 +6,24 @@ An iconfont for Berlin.
 ![berlin-icons](http://i.imgur.com/6R0gyqt.png)
 ![berlin-icons-2](http://i.imgur.com/BSUce91.png)
 
+#### Installation
+
+via [Bower](http://bower.io/):
+```
+bower install berlin-iconfont
+```
+
+via [npm](https://www.npmjs.com/):
+```
+npm install berlin-iconfont
+```
+
 #### Usage
 
 add this line to your HTML:
 
 ```
-<link href="berlin-iconfont/css/berlin-iconfont.css" rel="stylesheet">
+<link href="<path-to-font>/css/berlin-iconfont.css" rel="stylesheet">
 ```
 
 #### Available classes
