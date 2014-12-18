@@ -51,3 +51,4 @@ These are the class names you can use:
 
 Made with [Font Custom](http://fontcustom.com/).
 Inspired by [StateFace](http://propublica.github.io/stateface/).
+See also: [iconfont of german states](https://github.com/wbkd/germany-iconfont).
